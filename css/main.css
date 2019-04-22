@@ -3,8 +3,10 @@ body,html{
     margin:0 auto;
 }  
 .link{
-    color: deeppink;
+    color: black;
     padding: 10px 10px;
+    font-family: The Historia Demo;
+    font-size: 25px;
 }
 .link:hover{
     background: lightblue;
@@ -26,7 +28,7 @@ body,html{
     color:black;
 }
 .section2{
-    background: red;
+    background: teal;
     padding: 200px 0px;}
 .section3{
     background: green;
@@ -36,4 +38,22 @@ body,html{
     background: white;
 }
 .col-warna2{
-    background: black;
+    background: teal;
+}
+.section4{
+    background: red;
+    padding: 200px 0px;
+}
+.section5{
+    background: red;
+    padding: 100px 0px;
+}
+.judul{
+    font-family: The Historia Demo;
+    font-size: 70px;
+    color: black;
+}
+.sub-judul{
+    font-family: Bebas Neue;
+    font-size: 40px;
+    color:black;
